@@ -1,0 +1,65 @@
+# One Direction – One Way or Another (Teenage Kicks)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.02] One way or another, I'm gonna find ya
+[00:06.97] I'm gonna get ya, get ya, get ya, get ya
+[00:09.01] One way or another, I'm gonna win ya
+[00:12.83] I'm gonna get ya, get ya, get ya, get ya
+[00:14.92] One way or another, I'm gonna see ya
+[00:18.83] I'm gonna meet ya, meet ya, meet ya, meet ya
+[00:20.91] One day, maybe next week
+[00:23.24] I'm gonna meet ya, I'm gonna meet ya, I'll meet ya
+[00:48.24] 
+[00:26.78] I will drive past your house
+[00:32.70] And if the lights are all down
+[00:38.38] I'll see who's around
+[00:43.98] Let's go!
+[00:48.48] 
+[00:44.65] One way or another, I'm gonna find ya
+[00:48.44] I'm gonna get ya, get ya, get ya, get ya
+[00:50.49] One way or another, I'm gonna win ya
+[00:54.64] I'll get ya, I'll get ya
+[00:56.21] One way or another, I'm gonna see ya
+[01:00.29] I'm gonna meet ya, meet ya, meet ya, meet ya
+[01:02.35] One day, maybe next week
+[01:04.72] I'm gonna meet ya, I'll meet ya, I'll meet ya
+[01:27.22] 
+[01:08.32] And if the lights are all out
+[01:14.05] I'll follow your bus downtown
+[01:19.78] See who's hanging out
+[01:30.28] 
+[01:27.54] One, two, three, four
+[01:38.04] 
+[01:35.28] I wanna hold you, wanna hold you tight
+[01:38.14] I wanna hold you, wanna hold you tight
+[01:41.14] I wanna hold you, wanna hold you tight
+[01:43.59] Get teenage kicks right through the night
+[01:46.39] C'mon
+[01:48.89] 
+[01:47.15] I wanna hold you, wanna hold you tight
+[01:49.94] I wanna hold you, wanna hold you tight
+[01:52.91] I wanna hold you, wanna hold you tight
+[01:55.33] Get teenage kicks right through the night
+[02:15.83] 
+[01:58.76] One way or another, I'm gonna see ya
+[02:02.55] I'm gonna meet ya, meet ya, meet ya, meet ya
+[02:04.65] One way or another, I'm gonna win ya
+[02:08.50] I'm gonna get ya, get ya, get ya, get ya
+[02:28.50] 
+[02:10.56] One way or another (I wanna hold you, wanna hold you tight)
+[02:13.11] I'm gonna see ya (I wanna hold you)
+[02:14.59] I'm gonna meet ya, meet ya, meet ya, meet ya (Wanna hold you tight)
+[02:16.56] One way or another (I wanna hold you, wanna hold you tight)
+[02:18.88] I'm gonna win ya (I wanna hold you)
+[02:20.37] I'm gonna get ya, get ya, get ya, get ya (Wanna hold you tight)
+[02:51.87] 
+[02:22.32] One way or another (I wanna hold you, wanna hold you tight)
+[02:24.82] I'm gonna see ya (I wanna hold you)
+[02:26.47] I'm gonna meet ya, meet ya, meet ya, meet ya (Wanna hold you tight)
+[02:28.36] One way or another (I wanna hold you, wanna hold you tight)
+[02:30.84] I'm gonna win ya (I wanna hold you)
+[02:32.16] I'm gonna get ya, get ya, get ya, get ya (Wanna hold you tight)
+[02:34.42] One way or another
+```
