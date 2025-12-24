@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "One Way or Another (Teenage Kicks)",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T14:41:46.199351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Way Or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_One_Way_Or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Way Or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_One_Way_Or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Way or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_One_Way_or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Way or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_One_Way_or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Way or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/05_One_Way_or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Way Or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_One_Way_Or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Way Or Another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_One_Way_Or_Another_(Teenage_Kicks)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Way Or Another (Teenage Kicks)",
+      "artist": "div. Interpreten",
+      "has_synced": true,
+      "path": "select/08_One_Way_Or_Another_(Teenage_Kicks)_div._Interpreten.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Way Or Another (Teenage Kicks) (Radio Edit)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/09_One_Way_Or_Another_(Teenage_Kicks)_(Radio_Edit)_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One way or another (Teenage Kicks)",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_One_way_or_another_(Teenage_Kicks)_One_Direction.txt"
+    }
+  ]
+}
